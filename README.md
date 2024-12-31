@@ -1,4 +1,4 @@
-# Aggregate Grid-Forming Control of Heterogeneous Distributed Energy Resources
+# Simulation data for the paper "Aggregate Grid-Forming Control of Heterogeneous Distributed Energy Resources"
 This repository contains the simulation files to reproduce the results of the paper https://arxiv.org/abs/2410.14912
 
 MATLAB Version: 2022b
