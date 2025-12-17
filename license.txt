@@ -1,4 +1,4 @@
-Copyright 2025 ETH Zurich, Xiuqiang He
+Copyright 2025 ETH Zurich, Xiuqiang He, Verena Haeberla, Florian Doerfler
 
 CC BY 4.0
 
